@@ -9,4 +9,4 @@
 
 ## 2단계
 - MVVM 아키텍쳐 패턴을 적용
-- 비동기 처리를 Coroutine
+- 비동기 처리를 Coroutine 으로 변경
